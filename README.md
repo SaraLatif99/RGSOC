@@ -1,5 +1,8 @@
 # RGSOC
-Tasks:
+
+This is the open source project for 
+
+## Tasks:
 
 -Improve the model
 
@@ -10,6 +13,7 @@ Tasks:
 -Integrate a database
 
 
-Skills:
+## Skills:
 
 -HTML,CSS,JavaScript, Nodejs,Flask, Python, TensorFlow or pytorch,GIT
+
