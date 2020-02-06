@@ -1,6 +1,6 @@
 # RGSOC
 
-This is the [open source project]((https://teams.railsgirlssummerofcode.org/projects/353-deep-editing) for Rails Girls Summer of Code
+This is the [open source project](https://teams.railsgirlssummerofcode.org/projects/353-deep-editing) for Rails Girls Summer of Code
 
 ## Tasks:
 
