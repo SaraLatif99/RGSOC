@@ -4,13 +4,13 @@ This is the open source project for
 
 ## Tasks:
 
--Improve the model
+- Improve the model
 
--Contribute to documentaion
+- Contribute to documentaion
 
--Create a web app
+- Create a web app
 
--Integrate a database
+- Integrate a database
 
 
 ## Skills:
