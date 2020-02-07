@@ -14,8 +14,8 @@ This is the [open source project](https://teams.railsgirlssummerofcode.org/proje
 
 ## Mentors:
 
-@smaranjitghose
-@suhriddatta
+@ smaranjitghose
+@ suhriddatta
 
 
 ## Skills:
