@@ -12,6 +12,11 @@ This is the [open source project](https://teams.railsgirlssummerofcode.org/proje
 
 - Integrate a database
 
+## Mentors:
+
+@smaranjitghose
+@suhriddatta
+
 
 ## Skills:
 
